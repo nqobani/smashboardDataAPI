@@ -76,7 +76,6 @@ namespace Part1.Api.Controllers
             //    {
             //        var resp = new HttpResponseMessage(HttpStatusCode.NotFound)
             //        {
-
             //            Content = new StringContent(string.Format("Response: 'Invalid date range'")),
             //            ReasonPhrase = "Reason:'The end date can on be a date before the start date'"
             //        };
