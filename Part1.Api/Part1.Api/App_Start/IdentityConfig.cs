@@ -25,7 +25,7 @@ namespace Part1.Api
                 AllowOnlyAlphanumericUserNames = false,
                 RequireUniqueEmail = true
             };
-            // Configure validation logic for passwords
+            // Configure validation logic for passwords 
             manager.PasswordValidator = new PasswordValidator
             {
                 RequiredLength = 6,
